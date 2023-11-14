@@ -64,7 +64,7 @@ const onlogin = (eve)=>{
     }
     else{
         Swal.fire({
-            title: 'Wrong Passworld paste or wrong world paste',
+            title: 'Wrong Passworld paste or wrong words paste',
             text: 'Plz Proper Way Password And UserName Enter on TAb',
             imageUrl: 'https://img.freepik.com/free-vector/cartoon-character-with-devil-angel-fighting-thought_1308-113739.jpg',
             imageWidth: 200,
